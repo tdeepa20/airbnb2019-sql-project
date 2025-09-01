@@ -15,7 +15,7 @@ The goal is to practice **data analysis with SQL queries** such as filtering, ag
   - `reviews_per_month`, `calculated_host_listings_count`
   - `availability_365`
 
-## 📝 Questions Answered
+## Questions Answered
 1. Show all columns and rows from the dataset  
 2. List only the listing name and price  
 3. Show all listings located in Manhattan  
