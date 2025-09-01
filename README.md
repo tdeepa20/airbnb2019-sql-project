@@ -36,6 +36,3 @@ The goal is to practice **data analysis with SQL queries** such as filtering, ag
 18. Find the minimum and maximum price in the dataset  
 19. Show listings where the availability is between 100 and 300 days  
 20. How many listings are available in each room type within Manhattan?
-
-- Real-world dataset exploration
-
